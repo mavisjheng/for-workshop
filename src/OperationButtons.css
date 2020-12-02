@@ -1,0 +1,7 @@
+.operation-buttons {
+  display: flex;
+  justify-content: space-between;
+  width: 240px;
+  margin-top: 66px;
+  margin-left: 12px;
+}
